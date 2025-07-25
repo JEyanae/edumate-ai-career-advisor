@@ -40,6 +40,11 @@ Response format:
 📘 Recommended Course:
 💡 Success Tip:
 
+Future Plans:
+- Integrate with Claude AI or GPT for dynamic suggestions
+- Add backend to track results
+- Include local Kenyan course platforms
+
 👨🏽‍💻 Developed By
 Longoli Joseph Eyanae (Kakuma, Kenya)
 
